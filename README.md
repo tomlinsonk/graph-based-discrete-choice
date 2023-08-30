@@ -1,5 +1,5 @@
 # Graph-based Methods for Discrete Choice
-This repository accompanies paper 
+This repository accompanies the paper: 
 > Graph-based Methods for Discrete Choice.</br>
 > Kiran Tomlinson and Austin R. Benson.</br>
 > *Network Science*, 2023.
