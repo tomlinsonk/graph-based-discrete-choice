@@ -12,6 +12,7 @@ In addition, the following directories containing our results and data can be do
 - `raw-data/`: raw data files for the election data
 - `data/`: processed versions of our datasets
 - `results/`: our experiment result files
+- 
 The instructions below assume these directories are placed alongside `code/`.
 
 ## Data
