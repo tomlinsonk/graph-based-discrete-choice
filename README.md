@@ -7,6 +7,7 @@ This repository accompanies the paper:
 ## Contents
 This repository includes one directory:
 - `code/`: all code needed to process data, implement our methods, run our experiments, and plot results
+
 In addition, the following directories containing our results and data can be downloaded from https://osf.io/egj4q/:
 - `raw-data/`: raw data files for the election data
 - `data/`: processed versions of our datasets
