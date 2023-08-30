@@ -1,0 +1,3 @@
+data_dir: "../raw-data"
+parsed_data_dir: "../data"
+results_dir: "../results"
